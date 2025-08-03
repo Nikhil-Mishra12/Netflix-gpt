@@ -44,3 +44,8 @@ VITE_OPENAI_API_KEY=your_openai_api_key
 
 #Run you project
 npm run dev
+
+
+
+
+ 👉 [Click here to view project](https://reelmind.netlify.app)
