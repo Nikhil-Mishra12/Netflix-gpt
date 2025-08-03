@@ -4,7 +4,7 @@ import { getAnalytics } from "firebase/analytics";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_KEY,
+  apiKey:"AIzaSyAH7atIyWHAU73US2IxOt_k_uWao-CZ_7M",
   authDomain: "netflixgpt-622f7.firebaseapp.com",
   projectId: "netflixgpt-622f7",
   storageBucket: "netflixgpt-622f7.firebasestorage.appspot.com",
