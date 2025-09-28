@@ -56,11 +56,11 @@ return ()=>unsubscribe();
      w-screen flex flex-col md:flex-row justify-between items-center z-[100] mx-auto md:mx-0 '>
       
     
-      <img
+       <img
         className='w-44'
         src={logo}
         alt="logo" 
-      />
+      /> 
 
     
      {!hidesignbutton && <div className='flex items-center gap-1 relative group'>
